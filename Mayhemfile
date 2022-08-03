@@ -2,5 +2,4 @@ project: jpeg-compressor
 target: jpge
 
 cmds:
-  - cmd: /jpeg-compressor/bin/jpge /test.jpg /dev/null 10
-    filepath: /test.jpg
+  - cmd: /install/bin/jpge @@ /dev/null 10
